@@ -1,8 +1,8 @@
-package org.example.backend.Controller;
+package org.example.backend.controller;
 
 import org.example.backend.model.AnomalyEntity;
 import org.example.backend.Repository.AnomalyRepository;
-import org.springframework.http.ResponseEntity;
+import org.springframework.http.responseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
